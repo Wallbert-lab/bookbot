@@ -1,2 +1,3 @@
 # bookbot
-first python project using the bootdotdev learning platform
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
